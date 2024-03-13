@@ -1,13 +1,18 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "个人简介"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
+李慧芳，女，教授，博导，武汉大学资源与环境科学学院。
+主要研究方向为城市遥感信息处理与应用，针对大气衰减和复杂地表导致的卫星和航空影像中的严重辐射畸变问题，以机理、变分、统计、深度学习等模型为基础，开展多模型融合的计算校正理论方法研究，开展城市温度多尺度遥感监测与分析，取得了系列创新性成果。
+主持国家自然科学基金3项，国家重点研发项目课题/子课题3项，省部级及其他项目10余项，在RSE、ISPRS P&RS、IEEE TGRS等期刊发表学术论文50余篇，论文总被引2000多次（Google scholar）；出版《遥感数据质量改善之信息校正》专著一部；获得美国摄影测量与遥感协会(ASPRS)授予的ERDAS最佳遥感科学论文奖；获得测绘科技进步一等奖。
+欢迎有兴趣的研究生、本科生联系并加入我们的研究团队！
+<!--
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+-->
 
 A data-driven personal website
 ======

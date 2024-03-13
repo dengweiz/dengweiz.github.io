@@ -22,9 +22,9 @@ repository               : "dengweiz/dengweiz.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Deng Wei"
+  name             : "李慧芳"
   pronouns         : # example: "she/her"  
-  bio              : "a student in Wuhan University"
+  bio              : "武汉大学，资源与环境科学学院教授，博导。"
   location         : "中国，武汉"
   employer         : "武汉大学"
   uri              : # URL
